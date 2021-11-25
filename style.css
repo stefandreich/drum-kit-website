@@ -15,39 +15,25 @@ footer {
     font-family: sans-serif;
 }
 
-.w {
+.w {}
 
-}
+.a {}
 
-.a {
+.s {}
 
-}
+.d {}
 
-.s {
+.j {}
 
-}
+.k {}
 
-.d {
-
-}
-
-.j {
-
-}
-
-.k {
-
-}
-
-.l {
-
-}
+.l {}
 
 .set {
     margin: 10% auto;
 }
 
-.game-over{
+.game-over {
     background-color: red;
     opacity: 0.8;
 }
@@ -78,4 +64,3 @@ footer {
     margin: 10px;
     background-color: white;
 }
-
